@@ -30,7 +30,7 @@ bike-vs-taxi-analytics/
 
 ## 📈 Примеры дашбордов
 
-![bike_dashboard](images/bike.jpg)
+![bikes_dashboard](images/bikes.jpg)
 ![taxi_dashboard](images/taxi.jpg)
 ![taxi_vs_bikes_dashboard](images/taxi-vs-bikes.jpg)
 
